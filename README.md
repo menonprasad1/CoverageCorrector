@@ -16,6 +16,7 @@ python coverageConvertor.py <=Path to the coverage file=> <=Path to the base dir
 Where 
 
 Path to the coverage file : This is the coverage file that needs to be corrected.
+
 Path to the base directory where the code is : This is the base directory where the source is eg : /jenkins/workspace/AdServerForWeeklyBranch/AdServer_WeeklyBranch_13Aug2014
 
 
