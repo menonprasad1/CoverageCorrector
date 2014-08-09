@@ -10,7 +10,7 @@ The coverage convertor is intended to correct all the wrong paths
 
 Usage : 
 
-python coverageConvertor.py <Path to the coverage file> <Path to the base directory where the code is>
+python coverageConvertor.py <=Path to the coverage file=> <=Path to the base directory where the code is=>
 
 
 Where 
